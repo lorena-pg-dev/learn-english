@@ -43,7 +43,7 @@ Encourage autonomous learning
 
 🌐 Live Demo
 
-(You can add your GitHub Pages link here)
+(---)
 
 👩‍💻 Author
 
